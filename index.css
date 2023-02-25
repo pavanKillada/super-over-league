@@ -19,13 +19,13 @@ h1 {
   display: flex;
 }
 .imgs {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
 
 @media (min-width: 768px) {
   .imgs {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
   }
 }
